@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+env/
+
+# MacOS
+.DS_Store
+
+# Model checkpoints (VERY IMPORTANT)
+checkpoints/
+*.pth
+
+# Logs / outputs
+logs/
+outputs/
+*.txt
+
+# Jupyter (if any)
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
